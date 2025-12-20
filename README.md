@@ -8,7 +8,7 @@
 <h2>Hi 👋, my name is Nelson Lai</h2>
 <h3>full stack engineer</h3>
 
-- I'm currently working on [nelsonlai.dev](https://github.com/tszhong0411/nelsonlai.dev)
+- I'm currently working on [nelsonlai.dev](https://github.com/nelsonlaidev/nelsonlai.dev)
 
 - I'm currently learning **Next.js**
 
