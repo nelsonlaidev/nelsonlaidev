@@ -1,4 +1,4 @@
-[![Nelson Lai's GitHub Banner](https://nelsonlai.dev/og/image.webp)](https://nelsonlai.dev)
+[![Nelson Lai's GitHub Banner](https://nelsonlai.dev/images/banner.png)](https://nelsonlai.dev)
 
 <!-- Added base=23542 which is from my old username -->
 
